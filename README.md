@@ -71,52 +71,11 @@
 
 ---
 
-## 🚀 Proyek Unggulan
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfakhirSchool&repo=school-portal&theme=tokyonight&border_radius=10)](https://github.com/AlfakhirSchool/school-portal)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfakhirSchool&repo=moodle-integration&theme=tokyonight&border_radius=10)](https://github.com/AlfakhirSchool/moodle-integration)
-
-</div>
-
-> 💡 **Ganti** nama repo di atas dengan repo aktual yang dimiliki AlfakhirSchool
-
----
-
-## 🌍 Ekosistem Pendidikan Digital Kami
-
-```
-┌─────────────────────────────────────────────────────────┐
-│              AlfakhirSchool Digital Ecosystem            │
-├──────────────┬──────────────┬──────────────┬────────────┤
-│   LMS Layer  │  Infra Layer │  AI Layer    │  Security  │
-│              │              │              │            │
-│  • Moodle    │  • Nevacloud │  • Gemini AI │  • CF WAF  │
-│  • GClassrm  │  • Fibernet  │  • WA Bot    │  • Kali    │
-│  • GWorkspce │  • Cloudflre │  • Auto Grad │  • SSL/TLS │
-└──────────────┴──────────────┴──────────────┴────────────┘
-```
-
----
-
 ## 📈 Profile Visitor Counter
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AlfakhirSchool&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/Sejak-2024-brightgreen?style=flat-square" alt="Since"/>
-</div>
-
----
-
-## 📬 Hubungi Kami
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-alfakhirschool.sch.id-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alfakhirschool.sch.id)
-[![Email](https://img.shields.io/badge/Email-admin%40alfakhirschool.sch.id-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@alfakhirschool.sch.id)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Hubungi%20Kami-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62xxxxxxxxxx)
-
 </div>
 
 ---
