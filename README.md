@@ -21,8 +21,6 @@
 
 ---
 
----
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
