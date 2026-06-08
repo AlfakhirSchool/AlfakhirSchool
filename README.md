@@ -3,6 +3,9 @@
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a6b3c,100:22c55e&height=200&section=header&text=AlfakhirSchool&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Platform%20Teknologi%20Pendidikan%20Modern&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
+
+
+
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Inovasi+Pendidikan+%7C+Teknologi+Terdepan;Moodle+%7C+Google+Workspace+%7C+Next.js;Membangun+Generasi+Digital+yang+Unggul" alt="Typing SVG" />
@@ -64,23 +67,6 @@
   <img src="https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </p>
 
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlfakhirSchool&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfakhirSchool&layout=compact&theme=tokyonight&border_radius=10&hide_border=false"/>
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlfakhirSchool&theme=tokyonight&border_radius=10&hide_border=false" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlfakhirSchool&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=false&radius=10" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
