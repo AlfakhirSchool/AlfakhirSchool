@@ -18,18 +18,6 @@
 
 ---
 
-## 🏫 Tentang Kami
-
-<img align="right" src="https://raw.githubusercontent.com/AlfakhirSchool/AlfakhirSchool/main/assets/coding.gif" width="280" alt="coding gif"/>
-
-**AlfakhirSchool** adalah institusi pendidikan yang berkomitmen mengintegrasikan teknologi modern ke dalam ekosistem belajar-mengajar.
-
-- 🎯 **Misi** — Menghadirkan pengalaman belajar digital yang efektif, terukur, dan inklusif
-- 🔬 **Fokus** — Pengembangan platform edukasi berbasis cloud & open-source
-- 🌐 **Infrastruktur** — Nevacloud · Fibernet · Cloudflare · Google Workspace for Education
-- 🤝 **Kolaborasi** — Terbuka untuk kontribusi komunitas pengembang pendidikan
-- 📍 **Lokasi** — Indonesia 🇮🇩
-
 ---
 
 ## 🛠️ Tech Stack & Tools
